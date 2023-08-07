@@ -22,13 +22,13 @@ Navin is a Flutter app that gets news from a news API and classifies news with t
 Clone the project
 
 ```bash
-  git clone https://github.com/prajyot-pawar/news_classification_app
+  git clone https://github.com/prajyot-pawar/Navin--News-Classifier
 ```
 
 Go to the project directory
 
 ```bash
-  cd news_classification_app
+  cd Navin--News-Classifier
 ```
 
 Install dependencies
